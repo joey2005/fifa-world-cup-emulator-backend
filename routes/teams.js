@@ -5,4 +5,7 @@ const teamsController = require('../controllers/teamsController');
 // get all teams
 router.get('/', teamsController.getAllTeams);
 
+// change formation for a team
+router.put('/:teamID', teamsController.changeTeamFormation);
+
 module.exports = router;

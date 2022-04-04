@@ -6,6 +6,17 @@ const getAllTeams = (req, res) => {
   });
 };
 
+const changeTeamFormation = (req, res) => {
+  teamsModel.changeTeamFormation(
+    req.params.teamID,
+    req.body.formation,
+    (teamsData) => {
+      res.json(teamsData);
+    }
+  );
+};
+
 module.exports = {
-  getAllTeams
+  getAllTeams,
+  changeTeamFormation
 };
