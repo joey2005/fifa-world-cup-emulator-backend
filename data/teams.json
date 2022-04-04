@@ -7,7 +7,8 @@
     "group": "A",
     "position": "1",
     "coach": "Felix Sanchez",
-    "record": "TBD"
+    "record": "TBD",
+    "formation": "4-3-3"
   },
   {
     "teamID": "1",
@@ -17,7 +18,8 @@
     "group": "G",
     "poisition": "1",
     "coach": "Tite",
-    "record": "Champions (1958, 1962, 1970, 1994, 2022)"
+    "record": "Champions (1958, 1962, 1970, 1994, 2022)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "2",
@@ -27,7 +29,8 @@
     "group": "F",
     "poisition": "1",
     "coach": "Roberto Martinez",
-    "record": "Third place (2018)"
+    "record": "Third place (2018)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "3",
@@ -37,7 +40,8 @@
     "group": "D",
     "position": "1",
     "coach": "Didier Deschamps",
-    "record": "Champions (1998, 2018)"
+    "record": "Champions (1998, 2018)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "4",
@@ -47,7 +51,8 @@
     "group": "C",
     "poisition": "1",
     "coach": "Lionel Scaloni",
-    "record": "Champions (1978, 1986)"
+    "record": "Champions (1978, 1986)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "5",
@@ -57,7 +62,8 @@
     "group": "B",
     "position": "1",
     "coach": "Gareth Southgate",
-    "record": "Champions (1966)"
+    "record": "Champions (1966)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "7",
@@ -67,7 +73,8 @@
     "group": "E",
     "poisition": "1",
     "coach": "Luis Enrique",
-    "record": "Champions (2010)"
+    "record": "Champions (2010)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "8",
@@ -77,7 +84,8 @@
     "group": "H",
     "poisition": "1",
     "coach": "Fernando Santos",
-    "record": "Third place (1966)"
+    "record": "Third place (1966)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "9",
@@ -87,7 +95,8 @@
     "group": "C",
     "poisition": "3",
     "coach": "Gerardo Martino",
-    "record": "Qurter-finals (1970, 1986)"
+    "record": "Qurter-finals (1970, 1986)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "10",
@@ -97,7 +106,8 @@
     "group": "A",
     "position": "4",
     "coach": "Louis van Gaal",
-    "record": "Runners-up (1974, 1978, 2010)"
+    "record": "Runners-up (1974, 1978, 2010)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "11",
@@ -107,7 +117,8 @@
     "group": "D",
     "position": "3",
     "coach": "Kasper Hjulmand",
-    "record": "Quarter-finals (1998)"
+    "record": "Quarter-finals (1998)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "12",
@@ -117,7 +128,8 @@
     "group": "E",
     "poisition": "3",
     "coach": "Hansi Flick",
-    "record": "Champions (1954, 1974, 1990, 2014)"
+    "record": "Champions (1954, 1974, 1990, 2014)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "13",
@@ -127,7 +139,8 @@
     "group": "H",
     "poisition": "3",
     "coach": "Diego Alonso",
-    "record": "Champions (1930, 1950)"
+    "record": "Champions (1930, 1950)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "14",
@@ -137,7 +150,8 @@
     "group": "G",
     "poisition": "3",
     "coach": "Murat Yakin",
-    "record": "Quarter-finals (1934, 1938, 1954)"
+    "record": "Quarter-finals (1934, 1938, 1954)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "15",
@@ -147,7 +161,8 @@
     "group": "B",
     "position": "3",
     "coach": "Gregg Berhalter",
-    "record": "Third place (1930)"
+    "record": "Third place (1930)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "16",
@@ -157,7 +172,8 @@
     "group": "F",
     "poisition": "4",
     "coach": "Zlatko Dalic",
-    "record": "Runners-up (2018)"
+    "record": "Runners-up (2018)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "20",
@@ -167,7 +183,8 @@
     "group": "A",
     "position": "3",
     "coach": "Aliou Cisse",
-    "record": "Quarter-finals (2002)"
+    "record": "Quarter-finals (2002)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "21",
@@ -177,7 +194,8 @@
     "group": "B",
     "position": "2",
     "coach": "Dragan Skocic",
-    "record": "Group-stage(1978, 1998, 2006, 2014, 2018)"
+    "record": "Group-stage(1978, 1998, 2006, 2014, 2018)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "23",
@@ -187,7 +205,8 @@
     "group": "E",
     "poisition": "4",
     "coach": "Hajime Moriyasu",
-    "record": "Round of 16 (2002, 2010, 2018)"
+    "record": "Round of 16 (2002, 2010, 2018)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "24",
@@ -197,7 +216,8 @@
     "group": "F",
     "poisition": "3",
     "coach": "Vahid Halilhodzic",
-    "record": "Round of 16 (1986)"
+    "record": "Round of 16 (1986)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "25",
@@ -207,7 +227,8 @@
     "group": "G",
     "poisition": "2",
     "coach": "Dusan Tadic",
-    "record": "Fourth place (1930, 1962)"
+    "record": "Fourth place (1930, 1962)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "26",
@@ -217,7 +238,8 @@
     "group": "C",
     "poisition": "4",
     "coach": "Czeslaw Michniewicz",
-    "record": "Third place (1974, 1982)"
+    "record": "Third place (1974, 1982)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "29",
@@ -227,7 +249,8 @@
     "group": "H",
     "poisition": "4",
     "coach": "Paulo Bento",
-    "record": "Fourth place (2002)"
+    "record": "Fourth place (2002)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "35",
@@ -237,7 +260,8 @@
     "group": "D",
     "position": "4",
     "coach": "Jalel Kadri",
-    "record": "Group stage (1978, 1998, 2002, 2006, 2018)"
+    "record": "Group stage (1978, 1998, 2002, 2006, 2018)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "37",
@@ -247,7 +271,8 @@
     "group": "G",
     "poisition": "4",
     "coach": "Rigobert Song",
-    "record": "Quarter-finals (1990)"
+    "record": "Quarter-finals (1990)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "38",
@@ -257,7 +282,8 @@
     "group": "F",
     "poisition": "2",
     "coach": "John Herdman",
-    "record": "Group stage (1986)"
+    "record": "Group stage (1986)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "46",
@@ -267,7 +293,8 @@
     "group": "A",
     "position": "2",
     "coach": "Gustavo Alfaro",
-    "record": "Round of 16 (2006)"
+    "record": "Round of 16 (2006)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "49",
@@ -277,7 +304,8 @@
     "group": "C",
     "poisition": "2",
     "coach": "Herve Renard",
-    "record": "Round of 16 (1994)"
+    "record": "Round of 16 (1994)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "60",
@@ -287,7 +315,8 @@
     "group": "H",
     "poisition": "2",
     "coach": "Otto Addo",
-    "record": "Quarter-finals (2010)"
+    "record": "Quarter-finals (2010)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "18",
@@ -297,7 +326,8 @@
     "group": "B",
     "position": "4",
     "coach": "Rob Page",
-    "record": "Quarter-finals (1958)"
+    "record": "Quarter-finals (1958)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "39",
@@ -307,7 +337,8 @@
     "group": "B",
     "position": "4",
     "coach": "Steve Clarke",
-    "record": "Group-stage"
+    "record": "Group-stage",
+    "formation": "4-3-3"
   },
   {
     "teamID": "27",
@@ -317,7 +348,8 @@
     "group": "B",
     "position": "4",
     "coach": "Oleksandr Petrakov",
-    "record": "Quarter-finals (2006)"
+    "record": "Quarter-finals (2006)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "68",
@@ -327,7 +359,8 @@
     "group": "D",
     "position": "2",
     "coach": "Rodolfo Arruabarrena",
-    "record": "Group stage (1990)"
+    "record": "Group stage (1990)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "42",
@@ -337,7 +370,8 @@
     "group": "D",
     "position": "2",
     "coach": "Graham Arnold",
-    "record": "Round of 16 (2006)"
+    "record": "Round of 16 (2006)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "22",
@@ -347,7 +381,8 @@
     "group": "D",
     "position": "2",
     "coach": "Ricardo Gareca",
-    "record": "Top 8, 1970 (Quarter-finals) & 1978 (Round 2)"
+    "record": "Top 8, 1970 (Quarter-finals) & 1978 (Round 2)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "31",
@@ -357,7 +392,8 @@
     "group": "E",
     "position": "2",
     "coach": "Luis Fernando Suarez",
-    "record": "Quarter-finals (2014)"
+    "record": "Quarter-finals (2014)",
+    "formation": "4-3-3"
   },
   {
     "teamID": "101",
@@ -367,6 +403,7 @@
     "group": "E",
     "position": "2",
     "coach": "Danny Hay",
-    "record": "Group stage (1982 and 2010)"
+    "record": "Group stage (1982 and 2010)",
+    "formation": "4-3-3"
   }
 ]
