@@ -3,6 +3,7 @@ const app = express();
 const cors = require('cors');
 const path = require('path');
 const teamsRoutes = require('./routes/teams');
+const playersRoutes = require('./routes/players');
 
 require('dotenv').config();
 const { PORT } = process.env;
@@ -14,6 +15,9 @@ app.use(cors());
 
 // teams route
 app.use('/teams', teamsRoutes);
+
+// players route
+app.use('/players', playersRoutes);
 
 app.listen(PORT, () => {
   console.log(`express app listening on port ${PORT}`);
