@@ -849,7 +849,7 @@
     "Goals": "0",
     "Club": "England Tottenham Hotspur",
     "Country": "France",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "fdb58418-8352-4e3c-999d-db67552fa411",
@@ -1425,7 +1425,7 @@
     "Goals": "81",
     "Club": "France Paris Saint-Germain",
     "Country": "Argentina",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "c7c1f6ac-fc31-41d3-8c1d-b7fe61d5b68d",
@@ -1749,7 +1749,7 @@
     "Goals": "49",
     "Club": "England Tottenham Hotspur",
     "Country": "England",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "eddb65bd-bd73-4b16-bc7c-fb476e356369",
@@ -2031,13 +2031,13 @@
     "id": "38a1be0b-4df4-44ce-ab74-4d28ef78156a",
     "No": "1",
     "Pos": "GK",
-    "Player": "Rui Patrício (4th captain)",
+    "Player": "Rui Patrício",
     "Date-of-Birth": "15 February 1988 (age 34)",
     "Caps": "102",
     "Goals": "0",
     "Club": "Italy Roma",
     "Country": "Portugal",
-    "Captain": "0"
+    "Captain": "1"
   },
   {
     "id": "dc90e4d7-ac4a-4fb7-9cc7-459032220cec",
@@ -2079,13 +2079,13 @@
     "id": "413bb9eb-5a2c-4209-844a-dce9350e6c6b",
     "No": "3",
     "Pos": "DF",
-    "Player": "Pepe (3rd captain)",
+    "Player": "Pepe",
     "Date-of-Birth": "26 February 1983 (age 39)",
     "Caps": "124",
     "Goals": "7",
     "Club": "Portugal Porto",
     "Country": "Portugal",
-    "Captain": "0"
+    "Captain": "1"
   },
   {
     "id": "72064233-96ff-4620-917c-d55126abfff6",
@@ -2277,7 +2277,7 @@
     "Goals": "115",
     "Club": "England Manchester United",
     "Country": "Portugal",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "b8ddfd04-0dc1-4d37-804c-0d6bb15b2e2b",
@@ -2373,7 +2373,7 @@
     "Goals": "0",
     "Club": "Mexico América",
     "Country": "Mexico",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "d230c687-c107-407a-906b-d52421bf0c1c",
@@ -2733,7 +2733,7 @@
     "Goals": "5",
     "Club": "England Liverpool",
     "Country": "Netherlands",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "23bcc6ad-3985-4fc4-8a86-fc290229e94b",
@@ -3297,7 +3297,7 @@
     "Goals": "0",
     "Club": "Germany Bayern Munich",
     "Country": "Germany",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "c9c2eaae-d2d1-4a71-851e-2e3b2ac95478",
@@ -3657,7 +3657,7 @@
     "Goals": "8",
     "Club": "Brazil Atlético Mineiro",
     "Country": "Uruguay",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "eb94779c-4d5b-4c29-93cb-4dd66ac2f8e2",
@@ -4047,13 +4047,13 @@
     "id": "b723948d-5bb4-4eac-8817-6c0cf5ad0190",
     "No": "8",
     "Pos": "MF",
-    "Player": "Remo Freuler (4th captain)",
+    "Player": "Remo Freuler",
     "Date-of-Birth": "15 April 1992 (age 29)",
     "Caps": "42",
     "Goals": "4",
     "Club": "Italy Atalanta",
     "Country": "Switzerland",
-    "Captain": "0"
+    "Captain": "1"
   },
   {
     "id": "1739753c-505a-4015-b182-ae48f940ec1a",
@@ -4065,7 +4065,7 @@
     "Goals": "12",
     "Club": "England Arsenal",
     "Country": "Switzerland",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "ff2864bf-3a53-4fa5-9273-c340637d76c6",
@@ -4689,7 +4689,7 @@
     "Goals": "21",
     "Club": "Spain Real Madrid",
     "Country": "Croatia",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "5e5b2cf2-bd32-45b5-9c8a-f0462c81fa18",
@@ -4857,7 +4857,7 @@
     "Goals": "0",
     "Club": "Italy Napoli",
     "Country": "Senegal",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "9c5e134c-366e-4ac6-a103-96cee02ced44",
@@ -5253,7 +5253,7 @@
     "Goals": "7",
     "Club": "Greece AEK Athens",
     "Country": "Iran",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "9f6a78cb-6b3a-441a-b77c-29dc24522786",
@@ -5517,7 +5517,7 @@
     "Goals": "12",
     "Club": "Italy Sampdoria",
     "Country": "Japan",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "4a9abee7-90b5-4c82-a1a6-c2b35c5ea95f",
@@ -5757,7 +5757,7 @@
     "Goals": "1",
     "Club": "England Wolverhampton Wanderers",
     "Country": "Morocco",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "d37463c2-33ac-40b9-b060-087e71c6b020",
@@ -6129,7 +6129,7 @@
     "Goals": "18",
     "Club": "Netherlands Ajax",
     "Country": "Serbia",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "03e0e393-0b1e-4a75-bc2e-1c7269a08a33",
@@ -6585,7 +6585,7 @@
     "Goals": "75",
     "Club": "Germany Bayern Munich",
     "Country": "Poland",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "256a279b-7ccd-427a-9882-227844ec7720",
@@ -6765,7 +6765,7 @@
     "Goals": "31",
     "Club": "England Tottenham Hotspur",
     "Country": "South Korea",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "b7aae4a0-1a86-4ea0-afdc-baac044d9d42",
@@ -7149,7 +7149,7 @@
     "Goals": "15",
     "Club": "Qatar Al-Arabi",
     "Country": "Tunisia",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "86260cf7-a3a0-4d0b-992c-797c0d17e667",
@@ -7737,7 +7737,7 @@
     "Goals": "9",
     "Club": "Turkey Beşiktaş",
     "Country": "Canada",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "179197a2-c89b-42c7-a6f5-afd5b86da5c1",
@@ -9045,7 +9045,7 @@
     "Goals": "38",
     "Club": "Spain Real Madrid",
     "Country": "Wales",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "1101e110-0fbf-4164-a288-e63a8ef5e82e",
@@ -9141,7 +9141,7 @@
     "Goals": "3",
     "Club": "England Liverpool",
     "Country": "Scotland",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "4d337de8-1db1-4323-8559-6d4cc0b73d35",
@@ -9393,7 +9393,7 @@
     "Goals": "0",
     "Club": "Ukraine Shakhtar Donetsk",
     "Country": "Ukraine",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "711828e7-5fe4-4931-b4b7-9c53ae5ec1c9",
@@ -9717,7 +9717,7 @@
     "Goals": "7",
     "Club": "United Arab Emirates Shabab Al Ahli",
     "Country": "United Arab Emirates",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "6fc239c3-187c-4129-9360-90a831103192",
@@ -9933,7 +9933,7 @@
     "Goals": "0",
     "Club": "Spain Real Sociedad",
     "Country": "Australia",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "6256ffec-b7b9-4ee5-b065-21e9f1dd21dc",
@@ -10221,7 +10221,7 @@
     "Goals": "0",
     "Club": "United States Orlando City",
     "Country": "Peru",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "c27d7ab7-3158-432d-af56-44ea8ef1c845",
@@ -10701,7 +10701,7 @@
     "Goals": "28",
     "Club": "Costa Rica Alajuelense",
     "Country": "Costa Rica",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "818cb20a-7991-4ff9-aaa8-b47d85508016",
@@ -10905,7 +10905,7 @@
     "Goals": "1",
     "Club": "Unattached",
     "Country": "New Zealand",
-    "Captain": "2"
+    "Captain": "1"
   },
   {
     "id": "4812f71e-aa34-4be7-b45f-e74a955caf3b",
