@@ -16,7 +16,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Brazil.svg",
     "qualified": "true",
     "group": "G",
-    "poisition": "1",
+    "position": "1",
     "coach": "Tite",
     "record": "Champions (1958, 1962, 1970, 1994, 2022)",
     "formation": "4-3-3"
@@ -27,7 +27,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Belgium.svg",
     "qualified": "true",
     "group": "F",
-    "poisition": "1",
+    "position": "1",
     "coach": "Roberto Martinez",
     "record": "Third place (2018)",
     "formation": "4-3-3"
@@ -49,7 +49,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Argentina.svg",
     "qualified": "true",
     "group": "C",
-    "poisition": "1",
+    "position": "1",
     "coach": "Lionel Scaloni",
     "record": "Champions (1978, 1986)",
     "formation": "4-3-3"
@@ -71,7 +71,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Spain.svg",
     "qualified": "true",
     "group": "E",
-    "poisition": "1",
+    "position": "1",
     "coach": "Luis Enrique",
     "record": "Champions (2010)",
     "formation": "4-3-3"
@@ -82,7 +82,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Portugal.svg",
     "qualified": "true",
     "group": "H",
-    "poisition": "1",
+    "position": "1",
     "coach": "Fernando Santos",
     "record": "Third place (1966)",
     "formation": "4-3-3"
@@ -93,7 +93,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Mexico.svg",
     "qualified": "true",
     "group": "C",
-    "poisition": "3",
+    "position": "3",
     "coach": "Gerardo Martino",
     "record": "Qurter-finals (1970, 1986)",
     "formation": "4-3-3"
@@ -126,7 +126,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Germany.svg",
     "qualified": "true",
     "group": "E",
-    "poisition": "3",
+    "position": "3",
     "coach": "Hansi Flick",
     "record": "Champions (1954, 1974, 1990, 2014)",
     "formation": "4-3-3"
@@ -137,7 +137,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Uruguay.svg",
     "qualified": "true",
     "group": "H",
-    "poisition": "3",
+    "position": "3",
     "coach": "Diego Alonso",
     "record": "Champions (1930, 1950)",
     "formation": "4-3-3"
@@ -148,7 +148,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Switzerland.svg",
     "qualified": "true",
     "group": "G",
-    "poisition": "3",
+    "position": "3",
     "coach": "Murat Yakin",
     "record": "Quarter-finals (1934, 1938, 1954)",
     "formation": "4-3-3"
@@ -170,7 +170,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Croatia.svg",
     "qualified": "true",
     "group": "F",
-    "poisition": "4",
+    "position": "4",
     "coach": "Zlatko Dalic",
     "record": "Runners-up (2018)",
     "formation": "4-3-3"
@@ -203,7 +203,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Japan.svg",
     "qualified": "true",
     "group": "E",
-    "poisition": "4",
+    "position": "4",
     "coach": "Hajime Moriyasu",
     "record": "Round of 16 (2002, 2010, 2018)",
     "formation": "4-3-3"
@@ -214,7 +214,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Morocco.svg",
     "qualified": "true",
     "group": "F",
-    "poisition": "3",
+    "position": "3",
     "coach": "Vahid Halilhodzic",
     "record": "Round of 16 (1986)",
     "formation": "4-3-3"
@@ -225,7 +225,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Serbia.svg",
     "qualified": "true",
     "group": "G",
-    "poisition": "2",
+    "position": "2",
     "coach": "Dusan Tadic",
     "record": "Fourth place (1930, 1962)",
     "formation": "4-3-3"
@@ -236,7 +236,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Poland.svg",
     "qualified": "true",
     "group": "C",
-    "poisition": "4",
+    "position": "4",
     "coach": "Czeslaw Michniewicz",
     "record": "Third place (1974, 1982)",
     "formation": "4-3-3"
@@ -247,7 +247,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_South_Korea.svg",
     "qualified": "true",
     "group": "H",
-    "poisition": "4",
+    "position": "4",
     "coach": "Paulo Bento",
     "record": "Fourth place (2002)",
     "formation": "4-3-3"
@@ -269,7 +269,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Cameroon.svg",
     "qualified": "true",
     "group": "G",
-    "poisition": "4",
+    "position": "4",
     "coach": "Rigobert Song",
     "record": "Quarter-finals (1990)",
     "formation": "4-3-3"
@@ -280,7 +280,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Canada.svg",
     "qualified": "true",
     "group": "F",
-    "poisition": "2",
+    "position": "2",
     "coach": "John Herdman",
     "record": "Group stage (1986)",
     "formation": "4-3-3"
@@ -302,7 +302,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Saudi_Arabia.svg",
     "qualified": "true",
     "group": "C",
-    "poisition": "2",
+    "position": "2",
     "coach": "Herve Renard",
     "record": "Round of 16 (1994)",
     "formation": "4-3-3"
@@ -313,7 +313,7 @@
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Ghana.svg",
     "qualified": "true",
     "group": "H",
-    "poisition": "2",
+    "position": "2",
     "coach": "Otto Addo",
     "record": "Quarter-finals (2010)",
     "formation": "4-3-3"
@@ -355,7 +355,7 @@
     "teamID": "68",
     "teamName": "United Arab Emirates",
     "country_flag": "http://localhost:56789/country_flags/Flag_of_the_United_Arab_Emirates.svg",
-    "qualitfied": "false",
+    "qualified": "false",
     "group": "D",
     "position": "2",
     "coach": "Rodolfo Arruabarrena",
@@ -366,7 +366,7 @@
     "teamID": "42",
     "teamName": "Australia",
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Australia.svg",
-    "qualitfied": "false",
+    "qualified": "false",
     "group": "D",
     "position": "2",
     "coach": "Graham Arnold",
@@ -377,7 +377,7 @@
     "teamID": "22",
     "teamName": "Peru",
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Peru.svg",
-    "qualitfied": "false",
+    "qualified": "false",
     "group": "D",
     "position": "2",
     "coach": "Ricardo Gareca",
@@ -388,7 +388,7 @@
     "teamID": "31",
     "teamName": "Costa Rica",
     "country_flag": "http://localhost:56789/country_flags/Flag_of_Costa_Rica.svg",
-    "qualitfied": "false",
+    "qualified": "false",
     "group": "E",
     "position": "2",
     "coach": "Luis Fernando Suarez",
@@ -399,7 +399,7 @@
     "teamID": "101",
     "teamName": "New Zealand",
     "country_flag": "http://localhost:56789/country_flags/Flag_of_New_Zealand.svg",
-    "qualitfied": "false",
+    "qualified": "false",
     "group": "E",
     "position": "2",
     "coach": "Danny Hay",
