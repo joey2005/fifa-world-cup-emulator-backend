@@ -1,9 +1,12 @@
 const fs = require('fs');
-const path = require('path');
-const dataPath = path.join(__dirname, '../data/players.json');
+const dataPath = 'data/players.json';
 
 const getAllPlayers = (teamName, callback) => {
+  console.log(teamName, callback);
   fs.readFile(dataPath, 'utf-8', (err, data) => {
+    if (err) {
+      console.log(err);
+    }
     const playersData = JSON.parse(data);
     if (teamName) {
       callback(playersData.filter(player => {

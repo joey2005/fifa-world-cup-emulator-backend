@@ -1,6 +1,5 @@
 const fs = require('fs');
-const path = require('path');
-const dataPath = path.join(__dirname, '../data/teams.json');
+const dataPath = 'data/teams.json';
 
 const getAllTeams = (callback) => {
   fs.readFile(dataPath, 'utf-8', (err, data) => {
