@@ -2,7 +2,7 @@
   {
     "teamID": "51",
     "teamName": "Qatar",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Qatar.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Qatar.svg",
     "qualified": "true",
     "group": "A",
     "position": "1",
@@ -13,7 +13,7 @@
   {
     "teamID": "1",
     "teamName": "Brazil",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Brazil.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Brazil.svg",
     "qualified": "true",
     "group": "G",
     "position": "1",
@@ -24,7 +24,7 @@
   {
     "teamID": "2",
     "teamName": "Belgium",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Belgium.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Belgium.svg",
     "qualified": "true",
     "group": "F",
     "position": "1",
@@ -35,7 +35,7 @@
   {
     "teamID": "3",
     "teamName": "France",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_France.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_France.svg",
     "qualified": "true",
     "group": "D",
     "position": "1",
@@ -46,7 +46,7 @@
   {
     "teamID": "4",
     "teamName": "Argentina",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Argentina.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Argentina.svg",
     "qualified": "true",
     "group": "C",
     "position": "1",
@@ -57,7 +57,7 @@
   {
     "teamID": "5",
     "teamName": "England",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_England.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_England.svg",
     "qualified": "true",
     "group": "B",
     "position": "1",
@@ -68,7 +68,7 @@
   {
     "teamID": "7",
     "teamName": "Spain",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Spain.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Spain.svg",
     "qualified": "true",
     "group": "E",
     "position": "1",
@@ -79,7 +79,7 @@
   {
     "teamID": "8",
     "teamName": "Portugal",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Portugal.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Portugal.svg",
     "qualified": "true",
     "group": "H",
     "position": "1",
@@ -90,7 +90,7 @@
   {
     "teamID": "9",
     "teamName": "Mexico",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Mexico.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Mexico.svg",
     "qualified": "true",
     "group": "C",
     "position": "3",
@@ -101,7 +101,7 @@
   {
     "teamID": "10",
     "teamName": "Netherlands",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_the_Netherlands.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_the_Netherlands.svg",
     "qualified": "true",
     "group": "A",
     "position": "4",
@@ -112,7 +112,7 @@
   {
     "teamID": "11",
     "teamName": "Denmark",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Denmark.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Denmark.svg",
     "qualified": "true",
     "group": "D",
     "position": "3",
@@ -123,7 +123,7 @@
   {
     "teamID": "12",
     "teamName": "Germany",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Germany.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Germany.svg",
     "qualified": "true",
     "group": "E",
     "position": "3",
@@ -134,7 +134,7 @@
   {
     "teamID": "13",
     "teamName": "Uruguay",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Uruguay.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Uruguay.svg",
     "qualified": "true",
     "group": "H",
     "position": "3",
@@ -145,7 +145,7 @@
   {
     "teamID": "14",
     "teamName": "Switzerland",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Switzerland.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Switzerland.svg",
     "qualified": "true",
     "group": "G",
     "position": "3",
@@ -156,7 +156,7 @@
   {
     "teamID": "15",
     "teamName": "United States",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_the_United_States.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_the_United_States.svg",
     "qualified": "true",
     "group": "B",
     "position": "3",
@@ -167,7 +167,7 @@
   {
     "teamID": "16",
     "teamName": "Croatia",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Croatia.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Croatia.svg",
     "qualified": "true",
     "group": "F",
     "position": "4",
@@ -178,7 +178,7 @@
   {
     "teamID": "20",
     "teamName": "Senegal",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Senegal.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Senegal.svg",
     "qualified": "true",
     "group": "A",
     "position": "3",
@@ -189,7 +189,7 @@
   {
     "teamID": "21",
     "teamName": "Iran",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Iran.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Iran.svg",
     "qualified": "true",
     "group": "B",
     "position": "2",
@@ -200,7 +200,7 @@
   {
     "teamID": "23",
     "teamName": "Japan",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Japan.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Japan.svg",
     "qualified": "true",
     "group": "E",
     "position": "4",
@@ -211,7 +211,7 @@
   {
     "teamID": "24",
     "teamName": "Morocco",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Morocco.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Morocco.svg",
     "qualified": "true",
     "group": "F",
     "position": "3",
@@ -222,7 +222,7 @@
   {
     "teamID": "25",
     "teamName": "Serbia",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Serbia.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Serbia.svg",
     "qualified": "true",
     "group": "G",
     "position": "2",
@@ -233,7 +233,7 @@
   {
     "teamID": "26",
     "teamName": "Poland",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Poland.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Poland.svg",
     "qualified": "true",
     "group": "C",
     "position": "4",
@@ -244,7 +244,7 @@
   {
     "teamID": "29",
     "teamName": "South Korea",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_South_Korea.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_South_Korea.svg",
     "qualified": "true",
     "group": "H",
     "position": "4",
@@ -255,7 +255,7 @@
   {
     "teamID": "35",
     "teamName": "Tunisia",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Tunisia.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Tunisia.svg",
     "qualified": "true",
     "group": "D",
     "position": "4",
@@ -266,7 +266,7 @@
   {
     "teamID": "37",
     "teamName": "Cameroon",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Cameroon.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Cameroon.svg",
     "qualified": "true",
     "group": "G",
     "position": "4",
@@ -277,7 +277,7 @@
   {
     "teamID": "38",
     "teamName": "Canada",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Canada.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Canada.svg",
     "qualified": "true",
     "group": "F",
     "position": "2",
@@ -288,7 +288,7 @@
   {
     "teamID": "46",
     "teamName": "Ecuador",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Ecuador.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Ecuador.svg",
     "qualified": "true",
     "group": "A",
     "position": "2",
@@ -299,7 +299,7 @@
   {
     "teamID": "49",
     "teamName": "Saudi Arabia",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Saudi_Arabia.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Saudi_Arabia.svg",
     "qualified": "true",
     "group": "C",
     "position": "2",
@@ -310,7 +310,7 @@
   {
     "teamID": "60",
     "teamName": "Ghana",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Ghana.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Ghana.svg",
     "qualified": "true",
     "group": "H",
     "position": "2",
@@ -321,7 +321,7 @@
   {
     "teamID": "18",
     "teamName": "Wales",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Wales.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Wales.svg",
     "qualified": "false",
     "group": "B",
     "position": "4",
@@ -332,7 +332,7 @@
   {
     "teamID": "39",
     "teamName": "Scotland",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Scotland.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Scotland.svg",
     "qualified": "false",
     "group": "B",
     "position": "4",
@@ -343,7 +343,7 @@
   {
     "teamID": "27",
     "teamName": "Ukraine",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Ukraine.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Ukraine.svg",
     "qualified": "false",
     "group": "B",
     "position": "4",
@@ -354,7 +354,7 @@
   {
     "teamID": "68",
     "teamName": "United Arab Emirates",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_the_United_Arab_Emirates.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_the_United_Arab_Emirates.svg",
     "qualified": "false",
     "group": "D",
     "position": "2",
@@ -365,7 +365,7 @@
   {
     "teamID": "42",
     "teamName": "Australia",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Australia.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Australia.svg",
     "qualified": "false",
     "group": "D",
     "position": "2",
@@ -376,7 +376,7 @@
   {
     "teamID": "22",
     "teamName": "Peru",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Peru.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Peru.svg",
     "qualified": "false",
     "group": "D",
     "position": "2",
@@ -387,7 +387,7 @@
   {
     "teamID": "31",
     "teamName": "Costa Rica",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_Costa_Rica.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Costa_Rica.svg",
     "qualified": "false",
     "group": "E",
     "position": "2",
@@ -398,7 +398,7 @@
   {
     "teamID": "101",
     "teamName": "New Zealand",
-    "country_flag": "http://localhost:56789/country_flags/Flag_of_New_Zealand.svg",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_New_Zealand.svg",
     "qualified": "false",
     "group": "E",
     "position": "2",
