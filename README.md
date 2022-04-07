@@ -4,13 +4,17 @@ This project was bootstrapped with [Node.js](https://nodejs.org/en/)
 
 ## Available Scripts
 
-To start with this project, you should first run following command in the project directory to install all necessary depdencies:
+To start with this project, you should first run following command in the project directory to install all necessary dependencies:
 
-### `npm install
+```bash
+npm install
+```
 
 After the installation, in the project directory, you can run:
 
-### `npm start
+```bash
+npm start
+```
 
 Runs the server.
 
@@ -28,7 +32,7 @@ Runs the server.
 
 * Response body example:
 
-`
+```json
 [
   {
     "teamID": "51",
@@ -42,7 +46,8 @@ Runs the server.
     "formation": "4-3-3"
   }
 ]
-`
+```
+
 - - - -
 
 #### GET /players
@@ -51,7 +56,7 @@ Runs the server.
 
 * Response body example:
 
-`
+```json
 [
   {
     "id": "4c5f6961-c694-488f-9d61-2fce9c549b6a",
@@ -66,7 +71,7 @@ Runs the server.
     "Captain": "0"
   },
 ]
-`
+```
 
 - - - -
 
@@ -82,9 +87,27 @@ Runs the server.
 * Change the formation of the given team
 * :teamID must be swapped out with numeric id of a team as found in the list of teams
 * Put body example
-`
+```json
 {
-  "formation": "4-4-2"
+  "formation": "3-6-1"
 }
-`
+```
+
+* Response body example
+
+```json
+[
+  {
+    "teamID": "51",
+    "teamName": "Qatar",
+    "country_flag": "https://yans-capstone-backend.herokuapp.com//country_flags/Flag_of_Qatar.svg",
+    "qualified": "true",
+    "group": "A",
+    "position": "1",
+    "coach": "Felix Sanchez",
+    "record": "TBD",
+    "formation": "3-6-1"
+  }
+]
+```
 
