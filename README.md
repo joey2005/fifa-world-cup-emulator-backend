@@ -75,10 +75,10 @@ Runs the server.
 
 - - - -
 
-#### GET /players?team=teamName
+#### GET /players?team={teamName}
 
 * Return an array of players objects that belong to the given national team
-* teamName must be swapped out with the actual team name as found in the list of teams
+* {teamName} must be swapped out with the actual team name as found in the list of teams
 
 - - - -
 
